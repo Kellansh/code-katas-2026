@@ -1,0 +1,12 @@
+{
+  "name": "katas",
+  "version": "1.0.0",
+  "description": "",
+  "main": "6_fizzbuzz++.js",
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "module",
+  "types": "module",
+  "dependencies": {}
+}
