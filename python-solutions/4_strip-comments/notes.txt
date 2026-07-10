@@ -1,0 +1,5 @@
+1. use regex to select all text before any markers
+    find all strings that are:
+        not before a comment character
+        before a newline
+2. use a string method to strip the whitespace
